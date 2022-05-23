@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/189px-SpaceLogo.svg.png" tvg-name="space"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/39_.m3u8?token=hu9wr-1rfYsm_J0FP5k_8w&expires=1653277372&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/245px-TNT_Sports_2021_logo.svg.png" tvg-name="tnt sports"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/9_.m3u8?token=rFmBTArfyfIEzytzpdyUtQ&expires=1653279042&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Fox_Sports_wordmark_logo.svg/245px-Fox_Sports_wordmark_logo.svg.png" tvg-name="fox sports"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/10_.m3u8?token=4A4W0yyNtgTuv_4xifdZVA&expires=1653279832&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports%2B_logo.svg/200px-Win_Sports%2B_logo.svg.png" tvg-name="win sports+
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/140_.m3u8?token=ajFcHEu6SXkoyhJEKPrQZA&expires=1653279960&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/125px-Warner2018LA.png" tvg-name="warner"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/40_.m3u8?token=yEpYFGUjwhLurd3bH229iQ&expires=1653280235&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/115px-TNT_Logo_2016.svg.png" tvg-name="tnt"
+ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/41_.m3u8?token=ncnUIs5tkJmBpZ60zE5zqA&expires=1653281300&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/125px-Caracol_Televisi%C3%B3n_logo.svg.pngO" tvg-name="canal caracol"
+https://jmkcprsrwspxydkt.wzcdn654.net:8443/hls/n706rv4rzy860.m3u8?s=asU-xY8-LD1jNnAY5Scd3Q&e=1653291416
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="stars chanel"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/42_.m3u8?token=Fasa2e9yLUbjwjJNjILt0w&expires=1653281580&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="cinemax"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/43_.m3u8?token=N0tvW1cb41sfXbkdpTIRRw&expires=1653281724&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="cine canal"
+ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/44_.m3u8?token=57SVWZ5ibONahfihSC3LPA&expires=1653281846&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="syfy"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/58_.m3u8?token=Zyvb7QXFgCjNQ-Hec94iJg&expires=1653281964&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="fx"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/70_.m3u8?token=cej6e0Z78kRIzL8d0asFgg&expires=1653282084&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="tnt series"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/76_.m3u8?token=HldjZp0ylP_EIvh6nWLcWA&expires=1653282271&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="axn"
+ttps://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/78_.m3u8?token=x95BsyeyLyXqxetS9TJaVQ&expires=1653282346&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="universal chanel"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/79_.m3u8?token=BvATnFIUE9cHuSHLNXwR_Q&expires=1653282428&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="studio universal"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/80_.m3u8?token=-eVRlVPRIcipPeLVKIw4Rw&expires=1653282523&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="multi premier"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/81_.m3u8?token=Fisd2cn47IzAIqV2hGBxYQ&expires=1653282572&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="amc"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/82_.m3u8?token=yr7P4mgTCMf1lCJ4Is4-GA&expires=1653282653&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="dp de pelicula"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/85_.m3u8?token=G7v2-WlqCKKjHvtJoSk4Sw&expires=1653282738&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="mtv"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/87_.m3u8?token=tlt4KTJxRpusY68IC4LncQ&expires=1653282811&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="htv"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/89_.m3u8?token=a5NbvHyf_FqJdYMcw06J2w&expires=1653282872&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="comedy centralL"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/91_.m3u8?token=Z36jZgaykOE-_rxC-wycqA&expires=1653282952&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="national geographic"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/92_.m3u8?token=pFsASOCFzXt84RqabJYrhw&expires=1653283028&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="discovery chanel"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/95_.m3u8?token=FJZ91ZgS5WND4AGwAZ1PvA&expires=1653283101&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="animal planet"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/94_.m3u8?token=F6Z0GE-ZhmOCrd0zd-Q12Q&expires=1653283199&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="disney chanel"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/107_.m3u8?token=0iesBjdZGafSUaVTHj4DZg&expires=1653283296&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="nick"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/110_.m3u8?token=WuncDcc6fAMtH9GyWy0YLg&expires=1653283381&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="CARTOON NETWORK"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/114_.m3u8?token=I-c0Uis3TYmlnXdgCnCOkQ&expires=1653283471&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="vh1"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/120_.m3u8?token=Odj6IhqbbD7JvRO28oKPwQ&expires=1653283553&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="el chavo 24/7"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/150_.m3u8?token=L_Vph60RiHuSHG-7a5IAQg&expires=1653283741&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="terror 24/7"
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/196_.m3u8?token=JXffCMXVI5wk8bTMJH9Iww&expires=1653283828&ip=186.29.207.21
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="los simpson"
+https://vsd149.mycdn.me/dash/stream_2414331038279/stream.manifest/sig/rUNoHPL48oc/expires/1653359762461/srcIp/186.29.207.21/clientType/0/srcAg/CHROME/mid/5468861636167/stream-medium.jidx?_rnd=730716684
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="NOMBRE DE CANAL"
+PEGAR AQUI URL DEL CANAL...!!!
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="rcn"
+https://jmkcprsrwspxydkt.wzcdn654.net:8443/hls/dfzrntia.m3u8?s=Ez4jMcF7_jJGtFF5f_CTPg&e=1653295180
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="pluto cine suspenso"
+https://siloh-latam-aka.plutotv.net/951_58_ad/creative/626c0215281212d4fa7be016_ad/720p/20220429_151949/hls/hls_2400_keyfile_0.key
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="pluto estelar accion"
+https://siloh-latam-aka.plutotv.net/c6009f_pluto/clip/604b91d1b2b870001a05ee54_Universal_Soldier_A_New_Dimension_aka_A_Day_of_Reckoning/720p/20210312_080746/hls/1144187-1763848/hls_2400_keyfile_17.key
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="pluto cine accion"
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5dcb62e63d4d8f0009f36881/subtitle/es/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=3d81f0d4-7eac-416f-8805-7967a7f6cdfb&deviceVersion=101.0.4951&appVersion=6.1.0-224569062434f6d546248cea44e460b64fe8772e&deviceType=web&deviceMake=chrome&sid=0e30e8b3-da42-11ec-bdc3-0242ac110003&advertisingId=&deviceLat=4.6384&deviceLon=-74.1443&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVmZjMwODEwLTM3MTYtNGY5Zi05YzYwLTNjYmVhYWZiYTliNSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwZTMwZThiMy1kYTQyLTExZWMtYmRjMy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4yOS4yMDcuMjEiLCJjaXR5IjoiQm9nb3TDoSIsInBvc3RhbENvZGUiOiIxMTA4MjEiLCJjb3VudHJ5IjoiQ08iLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0Ijo0LjYzODQsImRldmljZUxvbiI6LTc0LjE0NDMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMS4wLjQ5NTEiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMS4wLTIyNDU2OTA2MjQzNGY2ZDU0NjI0OGNlYTQ0ZTQ2MGI2NGZlODc3MmUiLCJjbGllbnRJRCI6IjNkODFmMGQ0LTdlYWMtNDE2Zi04ODA1LTc5NjdhN2Y2Y2RmYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0JvZ290YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTMzMDI1NzgsImp0aSI6IjY1ZWJmNmRlLTNhOGMtNGMwNy04YzZkLWJlZmNjMzA4ODM1NyIsImlhdCI6MTY1MzI3Mzc3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk0yUTRNV1l3WkRRdE4yVmhZeTAwTVRabUxUZzRNRFV0TnprMk4yRTNaalpqWkdaaSJ9.ZHGasZenMSUK5-2iLMgFcg2tNqIH14JjnLAzz2HD4bk
+
+#EXTINF:-1 , tvg-logo="PEGAR AQUI URL DEL LOGO" tvg-name="pluto adrenalina freezone"
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/61b793ccf571b80007b7a610/3063648/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=3d81f0d4-7eac-416f-8805-7967a7f6cdfb&deviceVersion=101.0.4951&appVersion=6.1.0-224569062434f6d546248cea44e460b64fe8772e&deviceType=web&deviceMake=chrome&sid=0e30e8b3-da42-11ec-bdc3-0242ac110003&advertisingId=&deviceLat=4.6384&deviceLon=-74.1443&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImVmZjMwODEwLTM3MTYtNGY5Zi05YzYwLTNjYmVhYWZiYTliNSIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIwZTMwZThiMy1kYTQyLTExZWMtYmRjMy0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE4Ni4yOS4yMDcuMjEiLCJjaXR5IjoiQm9nb3TDoSIsInBvc3RhbENvZGUiOiIxMTA4MjEiLCJjb3VudHJ5IjoiQ08iLCJkbWEiOjAsImFjdGl2ZVJlZ2lvbiI6IlZFIiwiZGV2aWNlTGF0Ijo0LjYzODQsImRldmljZUxvbiI6LTc0LjE0NDMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMS4wLjQ5NTEiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMS4wLTIyNDU2OTA2MjQzNGY2ZDU0NjI0OGNlYTQ0ZTQ2MGI2NGZlODc3MmUiLCJjbGllbnRJRCI6IjNkODFmMGQ0LTdlYWMtNDE2Zi04ODA1LTc5NjdhN2Y2Y2RmYiIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0JvZ290YSIsInNlcnZlclNpZGVBZHMiOnRydWUsImUyZUJlYWNvbnMiOmZhbHNlLCJmZWF0dXJlcyI6e30sImRybSI6eyJuYW1lIjoid2lkZXZpbmUiLCJsZXZlbCI6IkwzIn0sImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2NTMzMDI1NzgsImp0aSI6IjY1ZWJmNmRlLTNhOGMtNGMwNy04YzZkLWJlZmNjMzA4ODM1NyIsImlhdCI6MTY1MzI3Mzc3OCwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk0yUTRNV1l3WkRRdE4yVmhZeTAwTVRabUxUZzRNRFV0TnprMk4yRTNaalpqWkdaaSJ9.ZHGasZenMSUK5-2iLMgFcg2tNqIH14JjnLAzz2HD4bk
+
